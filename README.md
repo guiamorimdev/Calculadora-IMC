@@ -3,7 +3,7 @@
 Este é um projeto simples feito em **HTML, CSS e JavaScript** para calcular o IMC (Índice de Massa Corporal).
 
 ## 🔗 Acesse o site
-https://gui58105.github.io/Calculadora-IMC
+https://guiamorimdev.github.io/Calculadora-IMC
 
 ## 🧮 Como funciona
 1. Digite seu nome
