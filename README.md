@@ -21,7 +21,7 @@ The system displays the BMI value.
 
 ## 👨‍💻 Author
 Guilherme Amorim
-///////////////////////////////////////////////////////////////
+
 # Calculadora de IMC (Português-BR)
 
 Este é um projeto simples feito em **HTML, CSS e JavaScript** para calcular o IMC (Índice de Massa Corporal).
